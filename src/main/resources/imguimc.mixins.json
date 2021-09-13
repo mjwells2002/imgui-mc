@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "xyz.breadloaf.imguimc.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "GLFWInitMixin",
+    "TailRenderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
